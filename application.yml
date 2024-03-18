@@ -9,7 +9,7 @@ eureka:
     
     
 microservice:
-  payment-service:
+  first-service:
     endpoints:
       endpoint:
         uri: http://first-service/first/message
